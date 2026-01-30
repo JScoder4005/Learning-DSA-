@@ -6,3 +6,4 @@ function factorial(n) {
   return total;
 }
 console.log(factorial(5));
+console.log(factorial(3));
